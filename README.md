@@ -10,10 +10,14 @@ Um simples jogo de adivinhação em JavaScript, onde o jogador tenta acertar um 
 4. O jogo continuará até que você acerte o número secreto.
 5. Ao final do jogo, receba o número de tentativas realizadas.
 
+## Jogue Agora
+
+Acesse o [Jogo de Adivinhação](https://jogo-da-adivinha-sigma.vercel.app/) e divirta-se!
+
 ## Contribuição
 
 Contribuições são bem-vindas! Se encontrar problemas ou tiver sugestões, abra uma issue ou envie um pull request.
 
 ## Licença
 
-Este projeto está sob a licença MIT
+Este projeto está sob a licença MIT.
