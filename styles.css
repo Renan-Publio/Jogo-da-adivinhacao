@@ -1,0 +1,27 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  background-image: url('https://wallpapercave.com/wp/wp6322636.jpg'); /* Substitua pelo caminho da sua imagem de fundo */
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed; /* Isso mantém a imagem de fundo fixa enquanto você rola a página */
+  margin: 0; /* Remove a margem padrão do corpo */
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 10px;
+}
+
+.page-title {
+  font-size: 2em;
+  color: #000;
+  margin: 0 0 5px;
+}
+
+@media (max-width: 600px) {
+  .page-title {
+    font-size: 1.5em;
+  }
+}
